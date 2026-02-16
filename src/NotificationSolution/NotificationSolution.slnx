@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Notification.Console/Notification.Console.csproj" />
+  <Project Path="Notification.Tests/Notification.Tests.csproj" />
+</Solution>
